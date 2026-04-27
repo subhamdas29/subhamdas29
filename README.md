@@ -1,5 +1,8 @@
 <div align="center">
-![Welcome](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZtb2doMmc2cWhjandwMnk3c3ozbHNyOHNhMjMxcWs1cmxtZGJpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif)
+  
+<p align="center">
+  <img src="https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif" width="400"/>
+</p>
 
 # Hey there, I'm Subham Das 👋
 
