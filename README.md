@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif" width="400"/>
 </p>
 
-# Hey there, I'm Subham Das 👋
+# Hey there, I'm Subham Das 
 
-🚀 Backend Developer | ☁️ Cloud Engineer | 🤖 AI Enthusiast
+ Backend Developer |  Cloud Engineer |  AI Enthusiast
 
 ---
 
@@ -16,27 +16,27 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 B.Tech in CSE @ Techno Institute of Engineering & Management (2026)
-- 🔧 Backend developer building APIs, cloud-native tools & AI-powered apps
-- 🧩 Solved **200+ problems** on GeeksforGeeks · Score: **550+**
-- ☁️ **4x Google Cloud** certified · **1x Coursera** certified
-- 📍 Kolkata, India · Open to internships & collaborations
+-  B.Tech in CSE @ Techno Institute of Engineering & Management (2026)
+-  Backend developer building APIs, cloud-native tools & AI-powered apps
+-  Solved **200+ problems** on GeeksforGeeks · Score: **550+**
+-  **4x Google Cloud** certified · **1x Coursera** certified
+-  Kolkata, India · Open to internships & collaborations
 
 ---
 
-### 💼 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **ResumePilot** 🤖 | ATS scoring & resume suggestions engine (FYP) | FastAPI · Python · GCP |
-| **DevLink** 🔗 | Developer portfolio & project showcase platform | Node.js · TypeScript · PostgreSQL |
-| **CloudTasker** ⚡ | Serverless job scheduler & async task queue | FastAPI · Pub/Sub · Cloud Run |
+| **ResumePilot**  | ATS scoring & resume suggestions engine (FYP) | FastAPI · Python · GCP |
+| **DevLink**  | Developer portfolio & project showcase platform | Node.js · TypeScript · PostgreSQL |
+| **CloudTasker**  | Serverless job scheduler & async task queue | FastAPI · Pub/Sub · Cloud Run |
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 ```
