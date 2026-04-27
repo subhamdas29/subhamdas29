@@ -1,5 +1,5 @@
 <div align="center">
-![Welcome](https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif)
+![Welcome](berserk GIF.gif)
 
 # Hey there, I'm Subham Das 👋
 
