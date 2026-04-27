@@ -65,7 +65,7 @@ Git · GitHub · VS Code
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=subhamdas29&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
@@ -77,20 +77,20 @@ Git · GitHub · VS Code
 
 ---
 
-### 🌟 Current Focus
+###  Current Focus
 
-- 🔨 Building production-grade backend systems with FastAPI & Node.js
-- 🤖 Integrating Generative AI into real-world applications
-- ☁️ Deepening Google Cloud & serverless architecture skills
-- 📈 Growing problem-solving streak on GeeksforGeeks
+-  Building production-grade backend systems with FastAPI & Node.js
+-  Integrating Generative AI into real-world applications
+-  Deepening Google Cloud & serverless architecture skills
+-  Growing problem-solving streak on GeeksforGeeks
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamdas5477@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-das-270a92278)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhamdas29)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/subhamdas29)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/subhamdyyal)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subhamdas29&color=58a6ff&style=for-the-badge)
