@@ -31,8 +31,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | **ResumePilot**  | ATS scoring & resume suggestions engine (FYP) | FastAPI · Python · GCP |
-| **DevLink**  | Developer portfolio & project showcase platform | Node.js · TypeScript · PostgreSQL |
-| **CloudTasker**  | Serverless job scheduler & async task queue | FastAPI · Pub/Sub · Cloud Run |
+| **PayFlow**  | Payment app used for transaction & money management | Node.js · TypeScript · PostgreSQL |
+| **Weather-App**  | Simple backend for weather app | FastAPI |
 
 ---
 
@@ -40,7 +40,7 @@
 
 **Languages**
 ```
-Python · JavaScript · TypeScript · C · Java (basics)
+Python · JavaScript · TypeScript · C · Java 
 ```
 
 **Backend**
@@ -60,7 +60,7 @@ Google Cloud Platform · Generative AI
 
 **Tools**
 ```
-Git · GitHub · VS Code
+Git · GitHub · VS Code · Postman 
 ```
 
 ---
