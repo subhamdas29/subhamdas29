@@ -10,7 +10,7 @@
 
 ---
 
-[![skillicons](https://skillicons.dev/icons?i=py,js,ts,java,c,nodejs,express,fastapi,postgres,mysql,gcp,git,vscode)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=py,js,ts,java,c,nodejs,express,fastapi,postgres,mysql,react,nextjs,docker,kubernetes,kafka,prisma,postman,html,css,aws,gcp,git,vscode)](https://skillicons.dev)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **ResumePilot**  | ATS scoring & resume suggestions engine (FYP) | FastAPI · Python · GCP |
+| **ResumePilot**  | ATS scoring & resume suggestions engine (FYP) | FastAPI · Python |
 | **PayFlow**  | Payment app used for transaction & money management | Node.js · TypeScript · PostgreSQL |
 | **Weather-App**  | Simple backend for weather app | FastAPI |
 
