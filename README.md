@@ -53,9 +53,9 @@ Node.js · Express.js · FastAPI · TypeScript
 PostgreSQL · MySQL
 ```
 
-**Cloud & AI**
+**DevOps**
 ```
-Google Cloud Platform · Generative AI
+Docker · Kubernetes · Github Actions
 ```
 
 **Tools**
