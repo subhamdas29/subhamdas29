@@ -6,7 +6,7 @@
 
 # Hey there, I'm Subham Das 
 
- Backend Developer |  Cloud Engineer |  AI Enthusiast
+ Backend Developer |  Aspiring Full-Stack Developer
 
 ---
 
