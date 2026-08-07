@@ -32,7 +32,7 @@
 |---|---|---|
 | **ResumePilot**  | ATS scoring & resume suggestions engine (FYP) | FastAPI · Python |
 | **PayFlow**  | Payment app used for transaction & money management | Node.js · TypeScript · PostgreSQL |
-| **Weather-App**  | Simple backend for weather app | FastAPI |
+| **FoodRush**  | Food delivery app clone demonstrating saga workflow | Kafka · Docker · AWS |
 
 ---
 
@@ -40,22 +40,22 @@
 
 **Languages**
 ```
-Python · JavaScript · TypeScript · C · Java 
+Python · TypeScript · JavaScript · TypeScript · C · Java 
 ```
 
 **Backend**
 ```
-Node.js · Express.js · FastAPI · TypeScript
+Node.js · Express.js · FastAPI · Kafka
 ```
 
 **Databases**
 ```
-PostgreSQL · MySQL
+PostgreSQL · MySQL · Redis
 ```
 
 **DevOps**
 ```
-Docker · Kubernetes · Github Actions
+Docker · Github Actions
 ```
 
 **Tools**
