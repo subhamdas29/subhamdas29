@@ -1,7 +1,9 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Subham%20Das&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI-powered%20Apps&descSize=18&descAlignY=60" width="100%" alt="Subham Das"/>
+<img src="./terminal.svg" width="100%" alt="Terminal profile of Subham Das"/>
+
+<h1>Subham Das</h1>
 
 <a href="https://github.com/subhamdas29">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+event-driven+backend+systems;Kafka+%C2%B7+Saga+%C2%B7+Microservices;FastAPI+%C2%B7+Node.js+%C2%B7+TypeScript;Integrating+GenAI+into+real-world+apps;Open+to+internships+%26+collaborations" alt="Typing SVG" />
@@ -11,10 +13,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subhamdas29&color=1f6feb&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/subhamdas29?style=flat-square&color=1f6feb&logo=github)
-![Location](https://img.shields.io/badge/Based_in-West_Bengal,_India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open_to_work-2ea043?style=flat-square)
 
 </div>
+
+---
 
 ---
 
